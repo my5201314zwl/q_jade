@@ -1,0 +1,37 @@
+{
+  "name": "q_jade",
+  "version": "1.0.0",
+  "description": "somethings help to work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/my5201314zwl/q_jade.git"
+  },
+  "keywords": [
+    "node",
+    "q_jade",
+    "typescript",
+    "ts",
+    "ast",
+    "typeguard",
+    "utils",
+    "helper"
+  ],
+  "author": "Zhouwenliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/my5201314zwl/q_jade/issues"
+  },
+  "homepage": "https://github.com/my5201314zwl/q_jade#readme",
+  "dependencies": {
+    "rxjs": "^5.5.0"
+  },
+  "devDependencies": {
+    "ts-node": "~3.3.0",
+    "tslint": "~5.7.0",
+    "typescript": "~2.3.4"
+  }
+}
